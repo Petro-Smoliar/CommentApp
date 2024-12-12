@@ -1,0 +1,12 @@
+﻿# Rider specific files
+.idea/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore other system files
+Thumbs.db
+.DS_Store
