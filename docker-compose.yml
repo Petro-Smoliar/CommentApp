@@ -1,0 +1,6 @@
+﻿services:
+  commentapp.api:
+    image: commentapp.api
+    build:
+      context: .
+      dockerfile: CommentApp.Api/Dockerfile
