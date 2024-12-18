@@ -10,3 +10,5 @@
 # Ignore other system files
 Thumbs.db
 .DS_Store
+
+**/obj/
