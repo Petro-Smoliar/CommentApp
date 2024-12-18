@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CommentApp.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CommentApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f4161033016c0e3cd6829b7842b5b5d1c8c7924")]
-[assembly: System.Reflection.AssemblyProductAttribute("CommentApp.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CommentApp.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("CommentApp.Infrastructure")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CommentApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
