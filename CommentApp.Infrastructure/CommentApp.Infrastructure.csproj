@@ -19,4 +19,8 @@
       <ProjectReference Include="..\Application\Application.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="obj\Debug\net8.0\rider.project.model.nuget.info" />
+    </ItemGroup>
+
 </Project>
